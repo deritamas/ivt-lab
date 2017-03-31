@@ -1,7 +1,7 @@
 package hu.bme.mit.spaceship;
 
 /**
-* An advanced spaceship with two proton torpedos and four lasers
+* An advanced, professional spaceship with two proton torpedos and four lasers
 */
 public class GT4500 implements SpaceShip {
 
